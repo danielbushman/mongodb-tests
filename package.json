@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-tests",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbushman/mongodb-tests.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielbushman/mongodb-tests/issues"
+  },
+  "homepage": "https://github.com/danielbushman/mongodb-tests#readme"
+}
