@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/danielbushman/mongodb-tests/issues"
   },
-  "homepage": "https://github.com/danielbushman/mongodb-tests#readme"
+  "homepage": "https://github.com/danielbushman/mongodb-tests#readme",
+  "dependencies": {
+    "bson-ext": "^1.0.5",
+    "kerberos": "0.0.23",
+    "mongodb": "^2.2.27"
+  }
 }
